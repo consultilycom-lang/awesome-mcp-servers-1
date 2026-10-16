@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-nickgeorgeseo-fieldtwin-e684e73f",
+  "source": {
+    "issue": 3910,
+    "projectUrl": "https://github.com/nickgeorgeseo/fieldtwin"
+  },
+  "links": {
+    "docs": "https://nickgeorgeai.com/fieldtwin"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #3910. Source: https://nickgeorgeai.com/fieldtwin is fieldtwin's project page. It is the homepage set on the repository (https://github.com/nickgeorgeseo/fieldtwin), the README links to it, and it is the Docs link in the merged..."
+    ]
+  }
+}
